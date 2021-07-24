@@ -1,4 +1,4 @@
-- 👋 Hi, I’m W. Xin.
+- 👋 Hi, I’m Wu. X.
 - 👀 I’m interested in computer vision, image processing, and deep learning.
 - 🌱 I’m currently learning C++ to process some images. 
 - 💞️ I’m looking to collaborate on 3D pose estimation of animals.
