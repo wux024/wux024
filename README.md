@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wu. X.
+- 👋 Hi, I’m Wu. X or Adam Wiveion.
 - 👀 I’m interested in computer vision, image processing, and deep learning.
 - 🌱 I'm currently analyzing the laws of fish movement.
 - 💞️ I’m looking to collaborate on 3D pose estimation of animals.
