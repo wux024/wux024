@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Wu. X or Adam Wiveion.
 - 👀 I’m interested in computer vision, image processing, and deep learning.
+- :memo: I'm currently learning STM32-based hardware design, and the main programming language I use is C.
 - 📫 How to reach me? Email: wux024@nenu.edu.cn
 - :books: I have published some research papers.
     - Wu, X., Wei, Z., Hu, Y., & Wang, L. (2020, June). Traffic Sign Detection Method Using Multi-Color Space Fusion. In 2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA) (pp. 314-319). IEEE.
