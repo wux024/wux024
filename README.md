@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wu. X or Adam Wiveion.
-- 👀 I’m interested in computer vision, image processing, and deep learning.
+- 👀 I’m interested in computer vision, image processing, and deep learning. However, I am now working on chemical instrumentation.
 - :memo: I'm currently learning STM32-based hardware design, and the main programming language I use is C.
 - 📫 How to reach me? Email: wux024@nenu.edu.cn
 - :books: I have published some research papers.
